@@ -1,0 +1,9 @@
+J:\Programming\C#\NightBitsRegionRemover\RegionRemover\bin\Debug\RegionRemover.exe.config
+J:\Programming\C#\NightBitsRegionRemover\RegionRemover\bin\Debug\RegionRemover.exe
+J:\Programming\C#\NightBitsRegionRemover\RegionRemover\bin\Debug\RegionRemover.pdb
+J:\Programming\C#\NightBitsRegionRemover\RegionRemover\obj\Debug\RegionRemover.csprojResolveAssemblyReference.cache
+J:\Programming\C#\NightBitsRegionRemover\RegionRemover\obj\Debug\RegionRemover.Properties.Resources.resources
+J:\Programming\C#\NightBitsRegionRemover\RegionRemover\obj\Debug\RegionRemover.Regionremover.resources
+J:\Programming\C#\NightBitsRegionRemover\RegionRemover\obj\Debug\RegionRemover.csproj.GenerateResource.Cache
+J:\Programming\C#\NightBitsRegionRemover\RegionRemover\obj\Debug\RegionRemover.exe
+J:\Programming\C#\NightBitsRegionRemover\RegionRemover\obj\Debug\RegionRemover.pdb
